@@ -35,7 +35,7 @@
 
 <p align="left">
  
-  🦄 Objetivo: ** Adquirir conhecimento.**
+  🦄 Objetivo:  Adquirir conhecimento.
 </p>
 
 <p align="left">
