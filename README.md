@@ -1,6 +1,6 @@
 <img align="left" src="https://github.com/MarieneHubner/MarieneHubner/assets/146981712/09c1af72-305c-4fdf-ade6-389ba1e60c87" width="370px" height="420px">
 
- ## Olá, mundo! Estou fazendo curso de Programção Web Full-Stack no Instituto da Oportunidade Social.
+ ## Oii! Estou fazendo curso de Programção Web Full-Stack no Instituto da Oportunidade Social.
 
  ### Tecnologias que estou apredendo:
 
@@ -30,8 +30,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área desejada (se não tiver ignore)</strong>. <br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Meu nome é Mariene, curso história na UFRGS e gosto muito de música! É minha primeira experiência com a progamação, apesar dedesafiador haha tenho curtido a experiência. :)
 </p>
 
 <p align="left">
@@ -42,7 +41,7 @@
 <p align="left">
 </p>
 
-  💼 Ferramentas:  **Word, Excel, PowerPoint, Canva e Ferramentas Google.**
+  💼 Ferramentas:  **Word, Excel, PowerPoint e Ferramentas Google.**
 
 
 <p align="left">
