@@ -30,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Meu nome é Mariene, curso história na UFRGS e gosto muito de música! É minha primeira experiência com a progamação, apesar dedesafiador haha tenho curtido a experiência. :)
+  Meu nome é Mariene, curso história na UFRGS e gosto muito de música! É minha primeira experiência com a progamação, apesar de desafiador tenho curtido a experiência. :)
 </p>
 
 <p align="left">
